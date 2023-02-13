@@ -12,13 +12,13 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_bag"
         android:name="com.rhinotrivaldi.sigate.fragment.BagFragment"
         android:label="@string/title_bag"
         tools:layout="@layout/fragment_bag" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_account"
         android:name="com.rhinotrivaldi.sigate.fragment.AccountFragment"
         android:label="@string/title_account"
         tools:layout="@layout/fragment_account" />
